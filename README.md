@@ -7,7 +7,7 @@ Ce dépôt contient un tap Homebrew pour installer VSCodium sur Linux.
 Pour installer cette formule personnalisée :
 
 ```bash
-brew tap elgabo86/brew
+brew tap elgabo86/tap
 brew install --cask vscodium-linux
 ```
 
